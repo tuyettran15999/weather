@@ -1,5 +1,7 @@
 # Weather Project: Seattle vs Boston
 
+> Status: Work in Progress
+> This repository contains coursework for my Foundations of Data Science class. The project is currently under development and will be updated throughout the course.
 > This project compares precipitation in Seattle, WA and Boston, MA from January 1, 2018 to December 31, 2022.
 
 ---
