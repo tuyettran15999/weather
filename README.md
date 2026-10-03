@@ -33,7 +33,7 @@ The analysis shows that whether Seattle is rainier than Boston depends on how pr
 - **Source:** https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND
 - **Description:** Historical daily precipitation data for Seattle, WA and Boston, MA from January 1, 2018 to December 31, 2022.
 
-The raw datasets used in the project are located in the `data/raw/` folder.
+The raw datasets used in the project are located in the [Data Raw](data/raw) folder.
 
 ---
 
@@ -52,8 +52,9 @@ The data analysis used the data science methodology. Here are main steps include
 - Compare the mean amount of precipitation on days when precipitation occurred.
 - Perform statistical hypothesis tests to determine whether monthly differences in precipitation amount and frequency were statistically significant.
 
-The Jupyter notebook used to clean and analyze the data is: `code/Weather_Data.ipynb`
-The cleaned data file is: `data/processed/clean_seattle_boston_weather.csv`
+The Jupyter notebook used to clean and analyze the data is: [Weather Data notebook](code/Weather_Data.ipynb).
+
+The cleaned data file is: [clean_seattle_boston_weather.csv](data/clean_seattle_boston_weather.csv).
 
 ---
 
@@ -65,13 +66,13 @@ Seattle has precipitation more frequently, particularly during the winter months
 
 Overall, Seattle is rainier in terms of precipitation frequency, while Boston tends to have heavier and greater precipitation. Statistical tests also identified significant differences in precipitation amount and frequency between the two cities during several months of the year.
 
-The document communicating the results of this project is: `reports/Weather_Project_Report.pdf`
+The document communicating the results of this project is: [Weather Project Report](reports/Weather_Project_Report.pdf).
 
 ---
 
 ## Authors
 
-- Krystal Tran (https://github.com/tuyettran15999)
+- [Krystal Tran](https://github.com/tuyettran15999)
 
 ---
 
