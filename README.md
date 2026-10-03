@@ -71,7 +71,7 @@ The document communicating the results of this project is: `reports/Weather_Proj
 
 ## Authors
 
-- Krystal Tran[](https://github.com/tuyettran15999)
+- Krystal Tran (https://github.com/tuyettran15999)
 
 ---
 
