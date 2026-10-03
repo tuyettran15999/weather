@@ -7,9 +7,9 @@ matplotlib
 seaborn
 
 
-# Machine Learning
-scikit-learn
-statsmodels
+# Statistical Analysis
+scipy
+statsmodel
 
 
 # Jupyter & Development
