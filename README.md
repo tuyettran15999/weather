@@ -65,7 +65,7 @@ Seattle has precipitation more frequently, particularly during the winter months
 
 Overall, Seattle is rainier in terms of precipitation frequency, while Boston tends to have heavier and greater precipitation. Statistical tests also identified significant differences in precipitation amount and frequency between the two cities during several months of the year.
 
-The document communicating the results of this project is: `reports/`
+The document communicating the results of this project is: `reports/Weather_Project_Report.pdf`
 
 ---
 
